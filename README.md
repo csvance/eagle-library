@@ -1,4 +1,4 @@
-# Eagle Libraries
+# Carroll's Eagle Library
 - WARNING: MOST PACKAGES / FOOTPRINTS UNVERIFIED, USE AT YOUR OWN RISK!
 
 ## Headers
