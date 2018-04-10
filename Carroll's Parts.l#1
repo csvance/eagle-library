@@ -1466,7 +1466,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J4">
+<deviceset name="K66F_J4_2X6">
 <gates>
 <gate name="G$1" symbol="K66F_J4_2X6" x="0" y="0"/>
 </gates>
@@ -1492,7 +1492,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J3">
+<deviceset name="K66F_J3_2X8">
 <gates>
 <gate name="G$1" symbol="K66F_J1_2X8" x="0" y="0"/>
 </gates>
@@ -1522,7 +1522,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J2">
+<deviceset name="K66F_J2_2X10">
 <gates>
 <gate name="G$1" symbol="K66F_J2_2X10" x="0" y="0"/>
 </gates>
@@ -1556,7 +1556,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J1">
+<deviceset name="K66F_J1_2X8">
 <gates>
 <gate name="G$1" symbol="K66F_J1_2X8" x="0" y="0"/>
 </gates>

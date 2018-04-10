@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -1313,7 +1313,7 @@ grid 2.54 mm</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="TK1_J3A1">
+<deviceset name="TK1_J3A1_2X25">
 <gates>
 <gate name="G$1" symbol="TK1_J3A1_2X25" x="0" y="0"/>
 </gates>
@@ -1377,7 +1377,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TK1_J3A2">
+<deviceset name="TK1_J3A2_3X25">
 <gates>
 <gate name="G$1" symbol="TK1_J3A2_3X25" x="0" y="17.78"/>
 </gates>
@@ -1466,7 +1466,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J4">
+<deviceset name="K66F_J4_2X6">
 <gates>
 <gate name="G$1" symbol="K66F_J4_2X6" x="0" y="0"/>
 </gates>
@@ -1492,7 +1492,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J3">
+<deviceset name="K66F_J3_2X8">
 <gates>
 <gate name="G$1" symbol="K66F_J1_2X8" x="0" y="0"/>
 </gates>
@@ -1522,7 +1522,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J2">
+<deviceset name="K66F_J2_2X10">
 <gates>
 <gate name="G$1" symbol="K66F_J2_2X10" x="0" y="0"/>
 </gates>
@@ -1556,7 +1556,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="K66F_J1">
+<deviceset name="K66F_J1_2X8">
 <gates>
 <gate name="G$1" symbol="K66F_J1_2X8" x="0" y="0"/>
 </gates>
@@ -1613,23 +1613,6 @@ grid 2.54 mm</description>
 <connect gate="G$1" pin="GND" pad="GND"/>
 <connect gate="G$1" pin="OE" pad="OE"/>
 <connect gate="G$1" pin="VCC" pad="VCC"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="2N3904">
-<gates>
-<gate name="G$1" symbol="NPN" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="2N3904_BENT">
-<connects>
-<connect gate="G$1" pin="B" pad="B"/>
-<connect gate="G$1" pin="C" pad="C"/>
-<connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <technologies>
 <technology name=""/>
