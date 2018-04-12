@@ -1313,7 +1313,7 @@ grid 2.54 mm</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="TK1_J3A1_2X25">
+<deviceset name="TK1_J3A1">
 <gates>
 <gate name="G$1" symbol="TK1_J3A1_2X25" x="0" y="0"/>
 </gates>
@@ -1377,7 +1377,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TK1_J3A2_3X25">
+<deviceset name="TK1_J3A2">
 <gates>
 <gate name="G$1" symbol="TK1_J3A2_3X25" x="0" y="17.78"/>
 </gates>
@@ -1620,7 +1620,7 @@ grid 2.54 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3904_BENT">
+<deviceset name="2N3904">
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
 </gates>
